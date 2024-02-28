@@ -4,7 +4,10 @@ This document contains various functional that I should / could / might implemen
 
 ## Charts and portfolio analysis
 
-Adding charts that show what industry was most traded,
+Adding charts that show what industry was most traded, what the most traded stocks were, etc.
+
+Consider checking out the [streamlit-lightweight-charts](https://github.com/freyastreamlit/streamlit-lightweight-charts)
+plugin for finance charts.
 
 ## Volume alerts
 
