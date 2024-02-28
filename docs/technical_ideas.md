@@ -33,6 +33,8 @@ Example below, though I am not sure how to use it, other than as a container for
 
 For now, the initalization of the session state is done using the `DEFAULTS` dictionary from `app/app/defaults.py`.
 
+Consider looking at [challenges with using custom Python apps in Streamlit](https://docs.streamlit.io/library/advanced-features/custom-classes).
+
 ```python
 # in app/app.models.py
 from dataclasses import dataclass
