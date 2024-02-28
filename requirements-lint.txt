@@ -1,0 +1,13 @@
+mypy==1.8.0
+ruff==0.2.0
+typos==1.17.2
+black==24.2.0
+
+# mypy required extensions
+mypy-extensions==1.0.0
+types-requests==2.31.0.20240218
+types-pytz==2024.1.0.20240203
+types-beautifulsoup4==4.12.0.20240106
+
+# Stub files
+pandas-stubs

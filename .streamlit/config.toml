@@ -1,0 +1,6 @@
+[runner]
+magicEnabled = false
+fastReruns = true    # experiment with this in case of race conditions in the tickers multiselect dropdown
+
+[browser]
+gatherUsageStats = false
